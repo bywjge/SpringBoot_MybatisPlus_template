@@ -1,2 +1,0 @@
-# SpringBoot_MybatisPlus_template
-SpringBoot_MybatisPlus_template
